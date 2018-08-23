@@ -1,10 +1,16 @@
 {
   "name": "nguniversal-common-engine",
+  "description": "Common Engine for Angular universal",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/compiler": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/platform-server": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitkanlabs/nguniversal-common-engine.git"
   }
 }
