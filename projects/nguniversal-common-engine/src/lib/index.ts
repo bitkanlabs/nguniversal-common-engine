@@ -8,4 +8,3 @@
 export * from './interfaces';
 export * from './file-loader';
 export * from './engine';
-export * from './tokens';
